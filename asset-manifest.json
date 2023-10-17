@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/products/static/css/main.6255e80c.css",
+    "main.js": "/products/static/js/main.081bc774.js",
+    "static/media/he.jpg": "/products/static/media/he.48dbe7103b0a87f8108f.jpg",
+    "static/media/luffi.jpg": "/products/static/media/luffi.de72afbf4c4ba0989e21.jpg",
+    "static/media/girl.jpg": "/products/static/media/girl.17e448f955540ef72c56.jpg",
+    "static/media/girly.webp": "/products/static/media/girly.1c6d867d5816b1e44323.webp",
+    "index.html": "/products/index.html",
+    "main.6255e80c.css.map": "/products/static/css/main.6255e80c.css.map",
+    "main.081bc774.js.map": "/products/static/js/main.081bc774.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6255e80c.css",
+    "static/js/main.081bc774.js"
+  ]
+}
